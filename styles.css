@@ -46,3 +46,7 @@ img {
     padding-left: 20px;
     padding-right: 20px;
 }
+
+.categoria-videos img:hover {
+    border: 3px solid green;
+}
